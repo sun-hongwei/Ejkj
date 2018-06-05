@@ -1,3 +1,4 @@
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration({"classpath:spring/spring-dao.xml",
         "classpath:spring/spring-service.xml"})
+Test
